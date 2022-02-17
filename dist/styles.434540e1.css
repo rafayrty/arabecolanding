@@ -843,7 +843,7 @@ main .program .program-container .programs .program-detail {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.8rem 1rem;
+  padding: 0.25rem 1rem;
   width: 900px;
   margin: 0 auto;
 }
@@ -852,9 +852,13 @@ main .program .program-container .programs .program-detail {
     width: 100%;
   }
 }
+main .program .program-container .programs .program-detail__description {
+  max-width: 88%;
+}
 @media (max-width: 959px) {
   main .program .program-container .programs .program-detail__description {
     margin-left: 0.5rem;
+    max-width: 100%;
   }
 }
 main .program .program-container .programs .program-detail__description h3 {
