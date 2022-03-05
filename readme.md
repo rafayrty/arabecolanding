@@ -1,3 +1,3 @@
 ## Arab Economic Forum
 Arab Economic Forum Landing Page
-Visit at : https://arabecoforum.org/econf2022
+Visit at : https://arab-forum.org/econf2022
